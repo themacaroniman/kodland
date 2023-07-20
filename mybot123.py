@@ -23,4 +23,4 @@ async def heh(ctx, count_heh = 5):
 async def password(ctx):
     await ctx.send(gen_pass(10))
 
-bot.run("MTEyODk4NzQ5Njk1NzYxNjIxOQ.GKEvCu.9wO7Q2GRiui20CN6j06xMtBQR5I2aa3BcSNOMA")
+bot.run("")
